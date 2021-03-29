@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="![AirFare](https://user-images.githubusercontent.com/51199730/112869026-16150280-9093-11eb-9184-ac37e9ba2630.gif)" alt="AirFare" height="125" width="125">
+  <img src="![AirFare](https://user-images.githubusercontent.com/51199730/112869026-16150280-9093-11eb-9184-ac37e9ba2630.gif?w=512)"
   <br>
 </h1>
 

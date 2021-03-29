@@ -2,7 +2,6 @@
   <br>
   <img src=![AirFare](https://user-images.githubusercontent.com/51199730/112869026-16150280-9093-11eb-9184-ac37e9ba2630.gif) height="125" width="125">
   <br>
-  <img src="https://i.imgur.com/iSizpPl.png" alt="Animavita" height="45" width="">
   <br><br>
 </h1>
 

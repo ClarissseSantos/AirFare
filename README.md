@@ -1,5 +1,4 @@
-![Instituto Ômega](https://user-images.githubusercontent.com/51199730/112867571-76a34000-9091-11eb-8d29-8c8746aba9f4.gif)
-
+![AirFare](https://user-images.githubusercontent.com/51199730/112869026-16150280-9093-11eb-9184-ac37e9ba2630.gif)
 
 # AirFare
 A airfare(Passagem Aérea) é um sistema de passagens aereas que oferece o serviços de compra de passagens aéreas. 

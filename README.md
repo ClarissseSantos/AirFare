@@ -15,3 +15,6 @@ Semestre: 3ºSemetre
 ### Features
 
 - [x] Pesquisa
+- [ ] Criar Classes
+- [ ] Criar Tramento de exceções
+- [ ] 

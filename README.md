@@ -17,4 +17,4 @@ Semestre: 3ºSemetre
 - [x] Pesquisa
 - [ ] Criar Classes
 - [ ] Criar Tramento de exceções
-- [ ] 
+

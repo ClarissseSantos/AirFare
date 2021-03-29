@@ -11,3 +11,7 @@ RA:1460481911009
 Curso: Banco de Dados
 
 Semestre: 3ºSemetre
+
+### Features
+
+- [x] Pesquisa

@@ -12,7 +12,7 @@ Curso: Banco de Dados
 
 Semestre: 3ºSemetre
 
-### Features
+### Etapas
 
 - [x] Pesquisa
 - [ ] Criar Classes
